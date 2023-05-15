@@ -79,6 +79,7 @@ if(isset($_GET['m']))
 
 ?>
   <div class="container">
+    <h6>Input should be less than 20 characters</h6>
     <h2>Welcome</h2>
     <!-- <form method="get" action="buffer_logic.php"> -->
     <form method="get" action="buffer_prevent.php">
